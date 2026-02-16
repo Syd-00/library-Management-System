@@ -68,6 +68,7 @@ Project ini disusun oleh:
 - NIM: [24131310053]
 - Universitas: [Universitas Tangerang Raya]
 
-## 📝 Lisensi
+## 📝 Link E-book
+-https://ebook.webiot.id/ebooks/buku-panduan-sistem-perpustakaan
 
 © 2026 - Dibuat untuk Tugas UAS Pemrograman Berorientasi Objek.
