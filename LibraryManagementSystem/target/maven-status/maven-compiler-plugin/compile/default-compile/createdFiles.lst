@@ -1,0 +1,14 @@
+gui\BookForm$2.class
+gui\BookForm$7.class
+gui\BookForm.class
+gui\BookForm$3.class
+dao\BookDao.class
+database\DatabaseConnection.class
+gui\BookForm$6.class
+model\Book.class
+model\Transaction.class
+gui\BookForm$4.class
+dao\TransactionDao.class
+gui\BookForm$1.class
+com\mycompany\librarymanagementsystem\LibraryManagementSystem.class
+gui\BookForm$5.class
